@@ -48,7 +48,7 @@
   </div>
   <div style="text-align: center;">
     <h3>Codeforces Stats</h3>
-    <img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=R_E_D_D_E_V_I_L&theme=dark&show_icons=true&radius=20" alt="Codeforces Stats">
+    <img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=BATMAN_009&theme=dark&show_icons=true&radius=20" alt="Codeforces Stats">
   </div>
 </div>
 
