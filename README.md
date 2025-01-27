@@ -44,11 +44,11 @@
 <div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
   <div>
     <h3 align="center">LeetCode Stats</h3>
-    <img width="400" src="https://leetcard.jacoblin.cool/C_RONALDO7?theme=dark&ext=contest&radius=20" alt="LeetCode Stats">
+    <img width="300" src="https://leetcard.jacoblin.cool/C_RONALDO7?theme=dark&ext=contest&radius=20" alt="LeetCode Stats">
   </div>
   <div>
     <h3 align="center">Codeforces Stats</h3>
-    <img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=R_E_D_D_E_V_I_L&theme=dark&show_icons=true&radius=20" alt="Codeforces Stats">
+    <img width="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=R_E_D_D_E_V_I_L&theme=dark&show_icons=true&radius=20" alt="Codeforces Stats">
   </div>
 </div>
 
