@@ -41,14 +41,14 @@
 
 <h2 align="center"> 🏆 Competitive Programming Profiles </h2>
 
-<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-  <div>
-    <h3 align="center">LeetCode Stats</h3>
-    <img width="300" src="https://leetcard.jacoblin.cool/C_RONALDO7?theme=dark&ext=contest&radius=20" alt="LeetCode Stats">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <h3>LeetCode Stats</h3>
+    <img width="400" src="https://leetcard.jacoblin.cool/C_RONALDO7?theme=dark&ext=contest&radius=20" alt="LeetCode Stats">
   </div>
-  <div>
-    <h3 align="center">Codeforces Stats</h3>
-    <img width="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=R_E_D_D_E_V_I_L&theme=dark&show_icons=true&radius=20" alt="Codeforces Stats">
+  <div style="text-align: center;">
+    <h3>Codeforces Stats</h3>
+    <img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=R_E_D_D_E_V_I_L&theme=dark&show_icons=true&radius=20" alt="Codeforces Stats">
   </div>
 </div>
 
@@ -60,6 +60,7 @@
   <a href="https://www.linkedin.com/in/shamik-munjani/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="LinkedIn">
   </a>
+  <span style="margin: 5px;"></span>
   <a href="mailto:shamikmunjani@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="Email">
   </a>
