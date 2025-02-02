@@ -32,8 +32,8 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik200&repo=ClothTroop&theme=merko" alt="ClothTroop Repo">
   </a>
   <span style="margin: 20px;"></span> <!-- Add space -->
-  <a href="https://github.com/Shamik200/Cardi" title="Cardi">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik200&repo=Cardi&theme=tokyonight" alt="Cardi Repo">
+  <a href="https://github.com/Shamik200/SmartRote_App" title="SmartRote_App">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik200&repo=SmartRote_App&theme=tokyonight" alt="SmartRote_App Repo">
   </a>
 </div>
 
