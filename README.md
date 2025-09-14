@@ -1,11 +1,12 @@
 <h1 align="center"> Hola 👋🏽, I'm Shamik </h1>
 
 <div>
-  🎓 3rd-Year CSE Undergraduate at Institute of Technology, Nirma University.<br>
+  🎓 4th-Year CSE Undergraduate at Institute of Technology, Nirma University.<br>
   🖥️ Passionate Competitive Programmer, adept at solving complex problems.<br>
   📱 Experienced in Android Development and Machine Learning.<br>
   🤖 Enthusiastic about Artificial Intelligence and Deep Learning.<br>
   ⚽ Football enthusiast — love playing and watching in my free time.<br>
+  🏔️ Mountaineering enthusiast — love exploring peaks and challenging terrain.<br>
 </div>
 
 ---
@@ -28,12 +29,12 @@
 <h2 align="center"> 🚀 Project Repositories </h2>
 
 <div align="center">
-  <a href="https://github.com/Shamik200/ClothTroop" title="ClothTroop">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik200&repo=ClothTroop&theme=merko" alt="ClothTroop Repo">
+  <a href="https://github.com/Shamik200/InvestIQ" title="InvestIQ">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik200&repo=InvestIQ&theme=merko" alt="InvestIQ Repo">
   </a>
   <span style="margin: 20px;"></span> <!-- Add space -->
-  <a href="https://github.com/Shamik200/SmartRoute_App" title="SmartRoute_App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik200&repo=SmartRoute_App&theme=tokyonight" alt="SmartRoute_App Repo">
+  <a href="https://github.com/Shamik200/loopsy" title="Loopsy">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik200&repo=loopsy&theme=tokyonight" alt="Loopsy Repo">
   </a>
 </div>
 
@@ -57,6 +58,10 @@
 <h2 align="center"> 📬 Connect With Me </h2>
 
 <div align="center">
+  <a href="https://shamikmunjani.vercel.app/" title="Visit My Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="35">
+  </a>
+  <br><br>
   <a href="https://www.linkedin.com/in/shamik-munjani/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="LinkedIn">
   </a>
